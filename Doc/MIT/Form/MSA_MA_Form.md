@@ -14,15 +14,15 @@ Ti=MASTER SERVICES AGREEMENT
 
 0.6.Sec=IN CONSIDERATION OF the premises and mutual agreements contained herein, the sufficiency of which Client and Contractor hereby acknowledge, Client and Contractor, intending to be legally bound, hereby agree as follows:
 
-1.=[MIT/MA/IT/MSA/Sec/Def.md]
+1.=[MIT/Sec/MSA_MA_Def.md]
 
-2.=[MIT/MA/IT/MSA/Sec/Scope.md]
+2.=[MIT/Sec/MSA_MA_Scope.md]
 
-3.=[MIT/MA/IT/MSA/Sec/Services.md]
+3.=[MIT/Sec/MSA_MA_Services.md]
 
 4.Sec=INTENTIONALLY OMITTED
 
-5.=[MIT/MA/IT/MSA/Sec/Governance.md]
+5.=[MIT/Sec/MSA_MA_Governance.md]
 
 6.Ti=THIRD PARTY VENDORS.
 
