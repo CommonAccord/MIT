@@ -1,6 +1,6 @@
-Intro.=[Bit/Agt/Agt_Intro.md]
+Intro.=[Z/Agt/Agt_Intro.md]
 
-End.=[Bit/Agt/Agt_End.md]
+End.=[Z/Agt/Agt_End.md]
 
 Attach.=[Bit/Attach]
   
@@ -22,4 +22,4 @@ Note=To make blank - could be improved:
 
 null=<b></b>
 
-=[Bit/Agt/DT_Base.md]
+=[Z/Agt/DT_Base.md]
